@@ -1,0 +1,4 @@
+From the AtomCMS 2.0 Tutorial
+
+We're starting out at part 3, which is where the build begins. Each part will hold the video url and notes on each part's directions. 
+
